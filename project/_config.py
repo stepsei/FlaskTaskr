@@ -1,3 +1,5 @@
+# project/views.py
+
 import os
 
 # grab the folder where this script lives
